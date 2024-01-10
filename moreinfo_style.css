@@ -1,0 +1,17 @@
+.main_text{
+	font-family: 'Alegreya Sans', Helvetica, sans-serif;
+	font-size: 1.5em;
+	width: 30em;
+	padding-right: 3em;
+}
+.main_block_info{
+	display: flex;
+	padding: 2em;
+
+}
+
+.main_block1_image{
+	background-image: url(/Images/paralaxx8.jpg);
+	width: 40%;
+	height: auto;
+}

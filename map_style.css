@@ -1,0 +1,11 @@
+.map_camp{
+	display: flex;
+	justify-content: center;
+	padding-bottom: 2em;
+}
+
+.h1_text{
+	font-family: 'Alegreya Sans', Helvetica, sans-serif;
+	font-size: 3em;
+	padding-left: 1em;
+}
