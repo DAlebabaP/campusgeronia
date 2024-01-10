@@ -90,17 +90,18 @@ body{
 }
 
 .input_button {
-    padding: 1em 1em;
-	display: inline-block;
+   padding: 1em 1em;
+    display: flex;
     background-color: #8fdea5;
-	max-width: 6em;  
-    text-decoration: none; 
-    border-radius: 0.5em; 
-	font-size: 0.6em;
-    transition: background-color 0.3s ease; 
-	transition: transform 0.3s ease;
-	margin-left: 1em;
-	cursor: pointer;
+    width: 10em;
+    text-decoration: none;
+    border-radius: 0.5em;
+    font-size: 0.4em;
+    transition: background-color 0.3s ease;
+    transition: transform 0.3s ease;
+    margin-left: 1em;
+    cursor: pointer;
+    align-items: center;
 }
 
 .input_button a{
